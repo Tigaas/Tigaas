@@ -7,7 +7,7 @@ Olá eu sou Tiago Rocha Ribeiro
 - 📒 Estudando na Etec Martinho di Ciero|itu 1° ano do Ensino Médio com Técnico integrado em desenvolvimento e análises de Sistemas
 
 <div align="center">
-<img src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-martinho.jpg" width="450px" />
+<img src="https://agoraitu.files.wordpress.com/2018/11/1236826_611599748879629_1438630820_n.jpg?w=640" width="400px" />
 </div>
 
 
