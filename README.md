@@ -1,6 +1,6 @@
 Olá eu sou Tiago Rocha Ribeiro
 
-- 🌱 Atualmente Estudando: html e Portugol
+- 🌱 Atualmente Estudando: html,css e Portugol
 
 - 📫 Email para contato: trr08469@gmail.com 
 
