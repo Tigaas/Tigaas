@@ -2,7 +2,7 @@ Olá eu sou Tiago Rocha Ribeiro
 
 - 🌱 Atualmente Estudando: html e c#
 
-- 📫 Email para contato: trr08469@gmail.com 
+- 📫 Email para contato: TiagoR.Ribeiro726@gmail.com 
 
 - 📒 Estudando na Etec Martinho di Ciero|itu 2° ano do Ensino Médio com Técnico integrado em desenvolvimento e análises de Sistemas
 
