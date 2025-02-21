@@ -6,7 +6,7 @@ Olá eu sou Tiago Rocha Ribeiro
 - 📒 Estudando Tecnólogo em Analise e Desenvolvimento de Sistemas pela Fatec|Dom Amaury Castanho - 1/2
 
 <div align="center">
-<img src="https://agoraitu.files.wordpress.com/2018/11/1236826_611599748879629_1438630820_n.jpg?w=640" width="400px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqidIloJreregHwKI4IL5eAmKkZ2e7BDjRcw&sw=640" width="400px" />
 </div>
 
 
