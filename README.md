@@ -6,7 +6,8 @@ Olá eu sou Tiago Rocha Ribeiro
 - 📒 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas pela Fatec|Dom Amaury Castanho - 1/2
 
 <div>
-<img "https://github-readme-stats.vercel.app/api?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <a href="https://https://github.com/Tigaas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 
