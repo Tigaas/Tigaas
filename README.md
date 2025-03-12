@@ -4,7 +4,7 @@ Olá eu sou Tiago Rocha Ribeiro
 
 - 🎓 Formado Tecnico em Desenvolvimento de Sistemas pela Etec|Martinho di Ciero
 - 🌱 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas pela Fatec|Dom Amaury Castanho - 1/2
-- 💡 Preferência por trabalhar em front-end, design gráfico e UX
+- 💡 Preferência por trabalhar em front-end e Design
 - 📝 Estudando as linguagens:
   
 <div>
