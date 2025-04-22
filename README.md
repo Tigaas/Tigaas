@@ -11,7 +11,7 @@ Olá eu sou Tiago Rocha Ribeiro
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,html,java" />
+    <img src="https://skillicons.dev/icons?i=angular,css,html,java,react" />
   </a>
 </p>
 </div>
