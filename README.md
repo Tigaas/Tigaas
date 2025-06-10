@@ -1,4 +1,4 @@
-<h1 align="center">Opa, e aí 👋, bem vindo ao meu Github, meu nome é Tiago Rocha Ribeiro</h1>
+<h1 align="center">Opa, e aí?👋 bem vindo ao meu Github, meu nome é Tiago Rocha Ribeiro</h1>
 <h3 align="center">Sou um estudante do tecnólogo em análise e desenvolvimento de sistemas pela Fatec Itu - Dom Amaury Castanho</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto: [Laboratório Fabrica de Software](https://github.com/Lab-Fabrica-de-Software)
