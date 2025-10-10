@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&card_height=200&card_width=450&title_color=56E873&text_color=F3F2EC" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&card_height=200&card_width=430&title_color=56E873&text_color=F3F2EC" />
   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=200&card_width=450&bg_color=00000000&title_color=56E873&text_color=F3F2EC" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigaas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=200&card_width=430&bg_color=00000000&title_color=56E873&text_color=F3F2EC" />
 
 </div>
 
